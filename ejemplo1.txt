@@ -1,2 +1,3 @@
 Ejemplo de uso de GIT
 Corte 43 Parquesoft TI
+Aprende GIT es necesario para el desarrollo de software
